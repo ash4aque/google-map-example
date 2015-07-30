@@ -1,0 +1,836 @@
+[
+  {
+    "name": "user",
+    "state": {
+      "name": "Puerto Rico",
+      "location": {
+        "lat": 18.220833,
+        "lng": -66.590149
+      },
+      
+    },
+    "city": {
+      "name": "Florida",
+      "location": {
+        "lat": 27.6648274,
+        "lng": -81.5157535
+      },
+      
+    },
+    "zip": {
+      "name": "650",
+      "location": {
+        "lat": 18.360125,
+        "lng": -66.562311
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Puerto Rico",
+      "location": {
+        "lat": 18.220833,
+        "lng": -66.590149
+      },
+      
+    },
+    "city": {
+      "name": "Vega Baja",
+      "location": {
+        "lat": 18.4443908,
+        "lng": -66.38767
+      },
+      
+    },
+    "zip": {
+      "name": "693",
+      "location": {
+        "lat": 18.443109,
+        "lng": -66.398302
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Puerto Rico",
+      "location": {
+        "lat": 18.220833,
+        "lng": -66.590149
+      },
+      
+    },
+    "city": {
+      "name": "Vega Baja",
+      "location": {
+        "lat": 18.4443908,
+        "lng": -66.38767
+      },
+      
+    },
+    "zip": {
+      "name": "694",
+      "location": {
+        "lat": 18.443109,
+        "lng": -66.398302
+      },
+      
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Johnstown",
+      "location": {
+        "lat": 40.32674069999999,
+        "lng": -78.9219698
+      },
+      
+    },
+    "zip": {
+      "name": "15901",
+      "location": {
+        "lat": 40.412707,
+        "lng": -78.854245
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Johnstown",
+      "location": {
+        "lat": 40.32674069999999,
+        "lng": -78.9219698
+      },
+      
+    },
+    "zip": {
+      "name": "15902",
+      "location": {
+        "lat": 40.417111,
+        "lng": -78.80599
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Johnstown",
+      "location": {
+        "lat": 40.32674069999999,
+        "lng": -78.9219698
+      },
+      
+    },
+    "zip": {
+      "name": "15904",
+      "location": {
+        "lat": 40.319279,
+        "lng": -78.828084
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Johnstown",
+      "location": {
+        "lat": 40.32674069999999,
+        "lng": -78.9219698
+      },
+      
+    },
+    "zip": {
+      "name": "15905",
+      "location": {
+        "lat": 40.314074,
+        "lng": -78.870894
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Johnstown",
+      "location": {
+        "lat": 40.32674069999999,
+        "lng": -78.9219698
+      },
+      
+    },
+    "zip": {
+      "name": "15906",
+      "location": {
+        "lat": 40.494132,
+        "lng": -78.838673
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Johnstown",
+      "location": {
+        "lat": 40.32674069999999,
+        "lng": -78.9219698
+      },
+      
+    },
+    "zip": {
+      "name": "15907",
+      "location": {
+        "lat": 40.325374,
+        "lng": -78.915147
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Johnstown",
+      "location": {
+        "lat": 40.32674069999999,
+        "lng": -78.9219698
+      },
+      
+    },
+    "zip": {
+      "name": "15901",
+      "location": {
+        "lat": 40.412707,
+        "lng": -78.854245
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Philadelphia",
+      "location": {
+        "lat": 39.9525839,
+        "lng": -75.1652215
+      },
+      
+    },
+    "zip": {
+      "name": "19114",
+      "location": {
+        "lat": 40.019816,
+        "lng": -75.065617
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Pennsylvania",
+      "location": {
+        "lat": 41.2033216,
+        "lng": -77.1945247
+      },
+      
+    },
+    "city": {
+      "name": "Philadelphia",
+      "location": {
+        "lat": 39.9525839,
+        "lng": -75.1652215
+      },
+      
+    },
+    "zip": {
+      "name": "19115",
+      "location": {
+        "lat": 40.07841,
+        "lng": -75.045065
+      }
+    },
+    
+  },{
+    "name": "user",
+    "state": {
+      "name": "Texas",
+      "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+      
+    },
+    "city": {
+      "name": "San Antonio",
+      "location" : {
+               "lat" : 29.4241219,
+               "lng" : -98.49362819999999
+            },
+      
+    },
+    "zip": {
+      "name": "78201",
+      "location": {
+        "lat": 29.399933,
+        "lng": -98.537495
+      }
+    },
+    
+  },{
+    "name": "user",
+    "state": {
+      "name": "Texas",
+      "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+      
+    },
+    "city": {
+      "name": "San Antonio",
+      "location" : {
+               "lat" : 29.4241219,
+               "lng" : -98.49362819999999
+            },
+      
+    },
+    "zip": {
+      "name": "78232",
+      "location": {
+        "lat": 29.437532,
+        "lng": -98.461582
+      }
+    },
+    
+  },{
+    "name": "user",
+    "state": {
+      "name": "Texas",
+      "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+      
+    },
+    "city": {
+      "name": "El Paso",
+      "location" : {
+               "lat" : 31.7775757,
+               "lng" : -106.4424559
+            },
+      
+    },
+    "zip": {
+      "name": "79998",
+      "location": {
+        "lat": 31.694842,
+        "lng": -106.299987
+      }
+    },
+    
+  },
+  {
+    "name": "user",
+    "state": {
+      "name": "Texas",
+      "location" : {
+               "lat" : 31.9685988,
+               "lng" : -99.9018131
+            },
+      
+    },
+    "city": {
+      "name": "El Paso",
+      "location" : {
+               "lat" : 31.7775757,
+               "lng" : -106.4424559
+            },
+      
+    },
+    "zip": {
+      "name": "79901",
+      "location": {
+        "lat": 31.763608,
+        "lng": -106.484592
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "Colorado",
+      "location" : {
+               "lat" : 39.5500507,
+               "lng" : -105.7820674
+            },
+      
+    },
+    "city": {
+      "name": "Denver",
+      "location" : {
+               "lat" : 39.7384357,
+               "lng" : -104.9848593
+            },
+      
+    },
+    "zip": {
+      "name": "80279",
+      "location": {
+        "lat": 39.738752,
+        "lng": -104.408349
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "Colorado",
+      "location" : {
+               "lat" : 39.5500507,
+               "lng" : -105.7820674
+            },
+      
+    },
+    "city": {
+      "name": "Denver",
+      "location" : {
+               "lat" : 39.7384357,
+               "lng" : -104.9848593
+            },
+      
+    },
+    "zip": {
+      "name": "80275",
+      "location": {
+        "lat": 39.738752,
+        "lng": -104.408349
+      }
+    },
+    
+  },{
+    "name": "user",
+    "state": {
+      "name": "Colorado",
+      "location" : {
+               "lat" : 39.5500507,
+               "lng" : -105.7820674
+            },
+      
+    },
+    "city": {
+      "name": "Denver",
+      "location" : {
+               "lat" : 39.7384357,
+               "lng" : -104.9848593
+            },
+      
+    },
+    "zip": {
+      "name": "80235",
+      "location": {
+        "lat": 39.645837,
+        "lng": -105.065003
+      }
+    },
+    
+  },{
+    "name": "user",
+    "state": {
+      "name": "California",
+      "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+      
+    },
+    "city": {
+      "name": "Los Angeles",
+      "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+      
+    },
+    "zip": {
+      "name": "90888",
+      "location": {
+        "lat": 33.786594,
+        "lng": -118.298662
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "California",
+      "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+      
+    },
+    "city": {
+      "name": "Los Angeles",
+      "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+      
+    },
+    "zip": {
+      "name": "90801",
+      "location": {
+        "lat": 33.804309,
+        "lng": -118.200957
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "California",
+      "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+      
+    },
+    "city": {
+      "name": "Los Angeles",
+      "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+      
+    },
+    "zip": {
+      "name": "90715",
+      "location": {
+        "lat": 33.840565,
+        "lng": -118.078748
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "California",
+      "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+      
+    },
+    "city": {
+      "name": "Los Angeles",
+      "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+      
+    },
+    "zip": {
+      "name": "90711",
+      "location": {
+        "lat": 33.786594,
+        "lng": -118.298662
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "California",
+      "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+      
+    },
+    "city": {
+      "name": "Los Angeles",
+      "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+      
+    },
+    "zip": {
+      "name": "90660",
+      "location": {
+        "lat": 33.985812,
+        "lng": -118.088787
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "California",
+      "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+      
+    },
+    "city": {
+      "name": "Los Angeles",
+      "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+      
+    },
+    "zip": {
+      "name": "90302",
+      "location": {
+        "lat": 33.786594,
+        "lng": -118.298662
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "California",
+      "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+      
+    },
+    "city": {
+      "name": "Los Angeles",
+      "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+      
+    },
+    "zip": {
+      "name": "90017",
+      "location": {
+        "lat": 33.786594,
+        "lng": -118.298662
+      }
+    },
+    
+  },
+
+  {
+    "name": "user",
+    "state": {
+      "name": "California",
+      "location" : {
+               "lat" : 36.778261,
+               "lng" : -119.4179324
+            },
+      
+    },
+    "city": {
+      "name": "Los Angeles",
+      "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+      
+    },
+    "zip": {
+      "name": "90001",
+      "location": {
+        "lat": 33.973951,
+        "lng": -118.248405
+      }
+    },
+    
+  },{
+    "name": "user",
+    "state": {
+      "name": "Hawaii",
+      "location" : {
+               "lat" : 19.8967662,
+               "lng" : -155.5827818
+            },
+      
+    },
+    "city": {
+      "name": "Honolulu",
+      "location" : {
+               "lat" : 21.3069444,
+               "lng" : -157.8583333
+            },
+      
+    },
+    "zip": {
+      "name": "96853",
+      "location": {
+        "lat": 24.859832,
+        "lng": -168.021815
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "Hawaii",
+      "location" : {
+               "lat" : 19.8967662,
+               "lng" : -155.5827818
+            },
+      
+    },
+    "city": {
+      "name": "Honolulu",
+      "location" : {
+               "lat" : 21.3069444,
+               "lng" : -157.8583333
+            },
+      
+    },
+    "zip": {
+      "name": "96838",
+      "location": {
+        "lat": 24.859832,
+        "lng": -168.021815
+      }
+    },
+    
+  },
+{
+    "name": "user",
+    "state": {
+      "name": "Hawaii",
+      "location" : {
+               "lat" : 19.8967662,
+               "lng" : -155.5827818
+            },
+      
+    },
+    "city": {
+      "name": "Honolulu",
+      "location" : {
+               "lat" : 21.3069444,
+               "lng" : -157.8583333
+            },
+      
+    },
+    "zip": {
+      "name": "96819",
+      "location": {
+        "lat": 21.373179,
+        "lng": -157.901979
+      }
+    },
+    
+  },
+
+  {
+    "name": "user",
+    "state": {
+      "name": "Hawaii",
+      "location" : {
+               "lat" : 19.8967662,
+               "lng" : -155.5827818
+            },
+      
+    },
+    "city": {
+      "name": "Honolulu",
+      "location" : {
+               "lat" : 21.3069444,
+               "lng" : -157.8583333
+            },
+      
+    },
+    "zip": {
+      "name": "96802",
+      "location": {
+        "lat": 24.859832,
+        "lng": -168.021815
+      }
+    },
+    
+  }
+];

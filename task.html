@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="customMap.js"></script>
+    <script src="app.js"></script>
+    <link href="task.css" rel="stylesheet" type="text/css">
+    <script>
+      // binding app init on window load event.
+      google.maps.event.addDomListener(window, 'load', app.init);
+    </script>
+  </head>
+  <body>
+    <div class="statContainer">
+      <div class="statHeading">Stats for <span id="type"></span></div>
+      <p class="statNote">Click on Markers to see individual stats</p>
+      <div id = "container" class="statPlaceholder"></div>
+      <div class="stateBulletContainer">
+        <span class="bullet1"></span>
+        <span id="jsonConversion-time"></span>
+      </div>
+      <div class="stateBulletContainer">
+        <span class="bullet2"></span>
+        <span id = "renderMap-time"></span>
+      </div>
+    </div>
+
+    <div id="googleMap" class="mapContainer"></div>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+.statContainer {
+  min-height:700px; 
+  width: 24%; 
+  float: left; 
+  border-radius: 15px; 
+  border: 1px solid gray;
+}
+
+.statHeading {
+  float: right; 
+  width: 70%; 
+  margin-top: 4px;
+}
+
+.statNote {
+  padding: 12px; 
+  font-style: italic; 
+  font-size: 12px;
+  margin-left: 50px;
+}
+
+.statPlaceholder {
+  font-weight:bold; 
+  padding: 10px; 
+  font-size:10px;
+}
+
+.stateBulletContainer {
+  font-weight:bold; 
+  padding: 10px; 
+  font-size:10px;
+}
+
+.bullet1 {
+  border: 1px solid red; 
+  padding: 4px 14px 4px 4px; 
+  background-color: red; 
+  margin-right: 5px;
+}
+
+.bullet2 {
+  border: 1px solid seagreen; 
+  padding: 4px 14px 4px 4px; 
+  background-color: seagreen; 
+  margin-right: 5px;
+}
+
+.mapContainer {
+  height:700px; 
+  width: 75%; 
+  float: right; 
+  border-radius: 15px; 
+  border: 1px solid gray;
+}
